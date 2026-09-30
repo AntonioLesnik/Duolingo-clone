@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="duo_green">#58CC02</color>
+    <color name="duo_dark_green">#46A302</color>
+    <color name="duo_blue">#1CB0F6</color>
+    <color name="duo_text">#3C3C3C</color>
+    <color name="duo_gray">#777777</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#FFFFFF</color>
+</resources>
